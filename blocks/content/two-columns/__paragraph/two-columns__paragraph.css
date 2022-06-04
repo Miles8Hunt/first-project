@@ -6,6 +6,6 @@
   font-weight: normal;
 }
 
-.two-columns__paragraph:nth-of-type(3n) {
+.two-columns__paragraph:last-of-type {
   margin-bottom: 0;
 }

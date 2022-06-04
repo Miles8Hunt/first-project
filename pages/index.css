@@ -1,6 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
-@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -62,7 +62,7 @@
 @import url(../blocks/content/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/content/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/content/table/__text/_theme/table__text_theme_dark.css);
-@import url(../blocks/content/kaufman/__triangle/__triangle.css);
+@import url(../blocks/content/kaufman/__triangle/kaufman__triangle.css);
 
 @import url(../blocks/content/resources/resources.css);
 @import url(../blocks/content/resources/__logo-zone/resources__logo-zone.css);
