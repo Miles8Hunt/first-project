@@ -1,29 +1,22 @@
-Научиться учиться. Лендинг для Яндекс.Практикума
-Проект представляет собой одностраничный сайт.
+# Проект: Научиться учиться
 
-Стек
-HTML
-CSS
-Реализация
-Flexbox вёрстка
-CSS-анимация
-Файловая структура проекта по правилам Nested БЭМ
-Планы по доработке
-Адаптировать сайт для просмотра на разных устройствах
-Ссылка на сайт:
-https://github.com/Miles8Hunt/how-to-learn-plus-main.git
+## Описание проекта
 
-How to learn. The second project for Yandex.Praktikum
-The single page website is created using some advanced features of HTML and CSS.
+Одностраничный сайт.
 
-Stack
-HTML
-CSS
-Realization
-Flexbox layout
-CSS-animation
-The Nested BEM file stucture
-Future improvements
-To optimize website for different screen sizes
-URL:
-https://github.com/Miles8Hunt/how-to-learn-plus-main.git
+## Список использованных технологий
+
+* HTML5
+* CSS 
+* Файловая структура в соответствии с Nested БЭМ
+* Flexbox
+* CSS-animation
+* Адаптивная верстка под размеры экранов 1280px, 1024px, 768px, 320px
+
+## Макет
+
+* [Бриф-1](https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf)
+* [Бриф-2](https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf)
+
+## Адрес сайта 
+* https://miles8hunt.github.io/russian-travel/
